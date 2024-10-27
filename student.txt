@@ -1,0 +1,5 @@
+Student name: Tarin Elias
+Student number: 685288
+Student class: 3
+GitHub Repository: 
+GitHub Pages URL: 
